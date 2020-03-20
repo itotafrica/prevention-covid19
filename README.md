@@ -1,4 +1,4 @@
-# Welcome to StackEdit!
+# Description du projet
 
 Nous sommes à la recherche des traducteurs en toutes les langues africaines pour sensibiliser les messages de prévention contre le Coronavirus. - [itotafrica/prevention-covid19](https://github.com/itotafrica/prevention-covid19).
 
